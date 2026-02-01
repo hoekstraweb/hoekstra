@@ -1,0 +1,14 @@
+.git
+.git/**
+node_modules
+.DS_Store
+*.zip
+*.tar
+*.rar
+*.psd
+*.mov
+*.mp4
+*.mkv
+*.iso
+*.pack
+*.idx
